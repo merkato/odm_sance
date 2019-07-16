@@ -11,3 +11,5 @@ https://opentopomap.org/#map=16/49.49789/18.74768
 ## History
 
 In Polish: https://pl.wikipedia.org/wiki/Sza%C5%84ce_jab%C5%82onkowskie
+
+## License: CC-BY-SA 4.0
